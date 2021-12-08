@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathyapj
-- 👀 I’m interested in K8s, Cloud-Native, SDDC, Cloud Technologies
-- 🌱 I’m currently learning K8s, VMware SDDC, Cloud-Native, Cloud Technologies
+- 👀 I’m interested in K8s | Cloud-Native | SDDC | Cloud Technologies | Automation
+- 🌱 I’m currently learning K8s | VMware SDDC | Cloud-Native | Cloud Technologies | Automation
 - 💞️ I’m looking to collaborate on K8s | Cloud-Native | VMware SDDC | Cloud Technologies
 - 📫 How to reach me ... email @sathyapj@gmail.com
 
